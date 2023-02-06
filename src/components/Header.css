@@ -1,0 +1,14 @@
+.header {
+    padding: 10px;
+    background: skyblue;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    align-content: space-between;
+  }
+  
+  .time {
+    margin-left: 80%;
+    margin-right: 0%;
+    vertical-align: top;
+  }
